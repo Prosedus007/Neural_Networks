@@ -73,16 +73,7 @@ pip install numpy matplotlib torch torchvision scikit-learn tensorflow
 
 ---
 
-## 🚀 How to Run
 
-```bash
-# Train a specific model on MNIST or CIFAR-10
-python train.py --model resnet --dataset cifar10
-```
-
-> Use flags like `--epochs`, `--batch-size`, or `--lr` to customize training.
-
----
 
 ## 📄 Output
 
@@ -91,8 +82,4 @@ python train.py --model resnet --dataset cifar10
 - Trained model weights
 
 ---
-
-## 📬 Contact
-
-For queries, contact: **Manish Raut** – M.Tech (Data Science)
 
